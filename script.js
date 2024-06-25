@@ -11,13 +11,20 @@ const perguntas = [
         alternativas: [", "alternativa 2"],
     },
     {
-        enunciado: "Pertunga 2",
+        enunciado: "Você decide o futuro da IA
+Com a descoberta desta tecnologia uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre IA. No fim de uma aula ela pede que Gabriel escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude Gabriel toma?
+Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.
+Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
         alternativas: ["Alternativa 1", "alternativa 2"],
     },
     {
         enunciado: "Pertunga 3",
         alternativas: ["Alternativa 1", "alternativa 2"],
     },
+    {
+        enunciado: "Pergunta 4";
+        alternativas:["alternativa 1", "alternativa2"]
+    }
 ];
 let atual = 0;
 let perguntaAtual;
