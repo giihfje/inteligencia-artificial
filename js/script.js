@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola Gabriel se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é assustador!",
@@ -72,7 +72,6 @@ const perguntas = [
     },
 ];
 
-
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
@@ -98,7 +97,7 @@ function mostraAlternativas(){
 }
 
 function respostaSelecionada(opcaoSelecionada) {
-    const afirmacoes = opcaoSelecionada.afirmacao;
+    const afirmacoes = aleatorio (opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     atual++;
     mostraPergunta();
@@ -109,5 +108,8 @@ function mostraResultado() {
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
-
+function aleatorio (lista){
+    const posicao = Math.floor(Math.random()*lista.length);
+    return lista [posicao];
+}
 mostraPergunta();
