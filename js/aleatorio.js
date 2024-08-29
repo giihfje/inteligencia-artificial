@@ -1,7 +1,5 @@
-export function aleatorio (liata){
-    //Trecho de código suprimido
-}
-const nomes = ["Rubia", "Gisele"];
+const nomes = ["Gisele", "Rubia"];
+
 export function aleatorio (lista){
     const posicao = Math.floor(Math.random()*lista.length);   
     return lista [posicao];
