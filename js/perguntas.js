@@ -1,6 +1,6 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova queimada. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com novas queimadas e mais desmatamento. Qual o primeiro pensamento?",
         alternativas: [
             {
                 texto: "Isso é apavorante!",
@@ -10,9 +10,9 @@ export const perguntas = [
                 proxima: 1,
                 },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso pode nos afetar!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia."
+                    "A fumaça gerada com essas queimadas pode provar poluição na atmosfera, causando também problemas respiratórios, dificultanto também a visibilidade nas rodovias, sendo assim causando mais acidentes."
                 ],
                 proxima: 2,
                 }
