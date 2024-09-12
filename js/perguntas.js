@@ -41,9 +41,9 @@ export const perguntas = [
         enunciado: "Depois de um breve estudos e discuções sobre as causas e os incêndios com os seus colegas. O que você vai fazer?",
         alternativas: [
             {
-                texto: "Defende a ideia de que o incêndios e desmatamenos que está acontecendo pode ser culpa do governo e temos que tomar certas atitudes para que tenhamos mais qualidade de vida futuramente, pois as atitudes tomadas hoje podem e vão afetar o nosso futuro.",
+                texto: "Defende a ideia de que o incêndios e desmatamenos que está acontecendo pode ser culpa do governo.",
                 afirmacao: [
-                    "."
+                    "Temos que tomar certas atitudes para que tenhamos mais qualidade de vida futuramente, pois as atitudes tomadas hoje podem e vão afetar o nosso futuro."
                 ],
                 proxima: 5,
                 },
