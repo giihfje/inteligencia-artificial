@@ -31,19 +31,19 @@ export const perguntas = [
             {
                 texto: "Fazer manifestações contra o governo e conscientizar as pessoas",
                 afirmacao: [
-                    "Fazer com as pessoas vejam o que está acontencendo no Brasil, e verem que não assando picanha e sim poluindo nossa atmosfera e destruindo a nossa camada de ozônio fazendo que diminuia o nosso tempo da vida na terra"
+                    "Fazer com as pessoas vejam o que está acontencendo no Brasil, e verem que não assando picanha e sim poluindo nossa atmosfera e destruindo a nossa camada de ozônio fazendo que diminuia o nosso tempo da vida na terra."
                 ],
                 proxima: 4,
                 }
         ]
     },
     {
-        enunciado: "Depois que você escreveu o trabalho, teve uma discussão sobre o impacto da IA no trabalho do futuro. O que você faz?",
+        enunciado: "Depois de um breve estudos e discuções sobre as causas e os incêndios com os seus colegas. O que você vai fazer?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Defende a ideia de que o incêndios e desmatamenos que está acontecendo pode ser culpa do governo e temos que tomar certas atitudes para que tenhamos mais qualidade de vida futuramente, pois as atitudes tomadas hoje podem e vão afetar o nosso futuro.",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                    "."
                 ],
                 proxima: 5,
                 },
