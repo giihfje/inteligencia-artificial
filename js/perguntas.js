@@ -19,19 +19,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta das causas prejudiciais, profissionais das saúde vem se preocupando com os problemas que estão por vim e outras pessoas estão desesperadas, pois o futuro está nas mãos do governo e não estão fazendo nada para impedir as queimadas e muito menos o desmatamento e cabe o povo fazer algo para fazemos que ocorra menos queimadas. Qual atitude você vai tomar?",
+        enunciado: "Com a descoberta das causas prejudiciais, profissionais das saúde vem se preocupando com os problemas que estão por vim e outras pessoas estão desesperadas, pois o futuro está nas mãos do governo e não estão fazendo nada para impedir as queimadas e muito menos o desmatamento e cabe o povo fazer algo para fazemos que ocorra menos queimadas. Qual atitude Gisele vai tomar?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto:"Não irei fazer nada, pois não estou causando isso.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis."
+                    "Incêndios e queimadas reduzem a qualidade do solo, destroem a vegetação, contribuem para a poluição do ar e aumentam o número de morte de animais, tanto pelo fogo, quanto por atropelamentos ao tentar fugir do local."
                 ],
                 proxima: 3,
                 },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Fazer manifestações contra o governo e conscientizar as pessoas",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                    "Fazer com as pessoas vejam o que está acontencendo no Brasil, e verem que não assando picanha e sim poluindo nossa atmosfera e destruindo a nossa camada de ozônio fazendo que diminuia o nosso tempo da vida na terra"
                 ],
                 proxima: 4,
                 }
