@@ -19,7 +19,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta das causas , chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Com a descoberta das causas prejudiciais, profissionais das saúde vem se preocupando com os problemas que estão por vim e outras pessoas estão desesperadas, pois o futuro está nas mãos do governo e não estão fazendo nada para impedir as queimadas e muito menos o desmatamento e cabe o povo fazer algo para fazemos que ocorra menos queimadas. Qual atitude você vai tomar?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
