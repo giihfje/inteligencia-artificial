@@ -57,34 +57,34 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após uma breve discusão, voce acha que as queimadas devem ser controladas com leis mais severas ou o governo deve focar na educação das comunidades e não ligar para o desmatamento?",
+        enunciado: "Após uma breve discusão, voce acha que as queimadas devem ser controladas com leis mais severas ou o governo deve focar na educação das comunidades sobre o meio ambiente?",
         alternativas: [
             {
                 texto: "Focar na educação.",
                 afirmacao: [
-                    "Azando gue sentem dificuldades em desenhar manualmente como utilizar também!"
+                    "A educação pode promover uma mudança cultural e comportamental que sustente essas proteções a longo prazo, ajudando as pessoas a entender sobre a importância das florestas, dos ecossistemas e da nossa biodiversidade, fazendo assim as pessoas tenham uma comprenssão mais profundas sobre o que os impactos que o desmatamentos e as queimadas podem e vão causar ao meio ambiente. "
                 ],
                 proxima: 7,
                 },
             {
                 texto: "Ter leis mais severas.",
                 afirmacao: [
-                    "As queimadas deve ser controladas por leis mais severas, pois exigi uma urgência com ações imediatas e eficazes para termos uma melhora ao nosso planeta."
+                    "As queimadas deve ser controladas por leis mais severas, pois exigi uma urgência com ações imediatas e eficazes para termos uma melhora ao nosso meio ambiente."
                 ],
                 proxima: 7,
                 }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Qual é a sua opinião sobre como o governo tem lidado com a preservação da nossa floresta Amazônica  e como afetam a imagem do Brasil? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "O governo não está ligando para preservação da amazônia e muitos menos para a imagem do Brasil para os outros país.",
+                afirmacao: "O desinteresse do governo em preservar a Amazônia prejudica não apenas a natureza e o meio ambiente, mas também as relações internacionais do Brasil, gerando críticas sobre o nosso gorveno e os meios que estão utilizando contra as queimadas e o desmatamento da amazônia e a falha que temos no Ministério do Meio Ambiente (MMA)."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Pode gerar um impacto econômico para o Brasil futuramente.",
+                afirmacao: "Nações e organizações internacionais têm expressado preocupações sobre a falta de comprometimento do governo com acordos climáticos e a iniciativa da preservação, o que causa desisteresses e resultar em sanções econômicas e desinvestimentos."
             },
         ]
     },
