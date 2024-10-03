@@ -57,19 +57,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Após uma breve discusão, voce acha que as queimadas devem ser controladas com leis mais severas ou o governo deve focar na educação das comunidades e não ligar para o desmatamento?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Focar na educação.",
                 afirmacao: [
                     "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
                 ],
                 proxima: 7,
                 },
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Ter leis mais severas.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                    "As queimadas deve ser controladas por leis mais severas, pois exigi uma urgência com ações imediatas e eficazes para termos uma melhora ao nosso planeta."
                 ],
                 proxima: 7,
                 }
