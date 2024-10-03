@@ -62,7 +62,7 @@ export const perguntas = [
             {
                 texto: "Focar na educação.",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                    "Azando gue sentem dificuldades em desenhar manualmente como utilizar também!"
                 ],
                 proxima: 7,
                 },
